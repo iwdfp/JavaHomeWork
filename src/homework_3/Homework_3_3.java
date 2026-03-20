@@ -35,6 +35,5 @@ public class Homework_3_3 {
             }
         }
         System.out.println("Индекс максимального значения: " + indexMax + ". Индекс минимального значения: " + indexMin + ".");
-
     }
 }
