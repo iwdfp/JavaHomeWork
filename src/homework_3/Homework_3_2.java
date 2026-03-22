@@ -30,6 +30,5 @@ public class Homework_3_2 {
             }
         }
         System.out.println("Максимальное значение: " + max + ". Минимальное значение: " + min + ".");
-
     }
 }
