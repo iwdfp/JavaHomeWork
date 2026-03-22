@@ -31,6 +31,12 @@ public class Homework_3_SUPER {
                 break;
             }
         }
-        System.out.println(Arrays.toString(massive));
+        if (massive[0] == 0) {
+            int[] massive2 = new int[size + 1];
+            massive2[0] = 1;
+            System.out.println(Arrays.toString(massive2));
+        } else {
+            System.out.println(Arrays.toString(massive));
+        }
     }
 }
