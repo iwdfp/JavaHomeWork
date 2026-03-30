@@ -22,5 +22,4 @@ public class Therapist extends Doctor {
             patient.doctor = therapist;
         }
     }
-
 }
